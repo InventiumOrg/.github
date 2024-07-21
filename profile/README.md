@@ -9,7 +9,6 @@ Integrated with Google spreadsheet, users can export report files to their perso
 <p>Go, Htmx, MongoDB, PostgreSQL</p>
 <div>
   <img src="react.png" style="width:75px; height:75px" alt="react">
-  <img src="nodejs.png" style="width:75px; height:75px" alt="nodejs">
   <img src="mongodb.png" style="width:75px; height:75px" alt="mongo">
   <img src="rabbitmq.png" style="width:75px; height:75px" alt="mq">
   <img src="redis.png" style="width:75px; height:75px" alt="redis">
