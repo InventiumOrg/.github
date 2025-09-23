@@ -30,4 +30,4 @@ Integrated with Google spreadsheet, users can export report files to their perso
 <p>Redis was utilized for frontend static html elements.</p>
 <p>MongoDB was used for most microservices, including login-oauth, reports, inventory, etc.</p>
 </br>
-<img src="inventium.design.drawio.png" alt="diagram">
+<img src="inventium-design-1.0.0.png" alt="diagram">
