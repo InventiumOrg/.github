@@ -8,9 +8,6 @@ Integrated with Google spreadsheet, users can export report files to their perso
 
 <p>Go, Htmx, MongoDB, PostgreSQL</p>
 <div>
-  <img src="react.png" style="width:75px; height:75px" alt="react">
-  <img src="mongodb.png" style="width:75px; height:75px" alt="mongo">
-  <img src="rabbitmq.png" style="width:75px; height:75px" alt="mq">
   <img src="redis.png" style="width:75px; height:75px" alt="redis">
   <img src="s3.jpeg" style="width:75px; height:75px" alt="s3">
 </div>
@@ -31,3 +28,7 @@ Integrated with Google spreadsheet, users can export report files to their perso
 <p>MongoDB was used for most microservices, including login-oauth, reports, inventory, etc.</p>
 </br>
 <img src="inventium-design-1.0.0.png" alt="diagram">
+
+## Order Creation Flow
+
+<img src="order-creation-flow.png" alt="flow">
